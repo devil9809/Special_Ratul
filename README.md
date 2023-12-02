@@ -4,21 +4,21 @@
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg"></a>
-  <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/myTermux.svg"></a>
+  <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/Special_Ratul.svg"></a>
 </p>
 
 ## Video Installation
 
 > Click this thumbnail below to see video installation
 
-[![myTermux Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "myTermux - Installation")
+[![Special_Ratul Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "Special_Ratul - Installation")
 
 ## Installation Dependecies
 
 > **Attention!**
 >
 > - [Termux must be **F-Droid** Version](https://f-droid.org/en/packages/com.termux/) because Termux from Playstore no longer maintained because there are some problems with the Playstore publishing
-> - [Termux:API must be installed](https://f-droid.org/en/packages/com.termux.api/) myTermux use API command from Termux:API like fetch `termux-battery-status`
+> - [Termux:API must be installed](https://f-droid.org/en/packages/com.termux.api/) Special_Ratul use API command from Termux:API like fetch `termux-battery-status`
 
   <details open>
   <summary><strong>Update Repository & Upgrade Package</strong></summary>
@@ -41,13 +41,13 @@ pkg i -y git bc
 
   </details>
 
-## Installation myTermux
+## Installation Special_Ratul
 
   <details open>
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/mayTermux/myTermux.git
+git clone --depth=1 https://github.com/mayTermux/Special_Ratul.git
 ```
 
   </details>
@@ -58,7 +58,7 @@ git clone --depth=1 https://github.com/mayTermux/myTermux.git
 - Move to Folder
 
 ```bash
-cd myTermux
+cd Special_Ratul
 ```
 
 - export variable `COLUMNS` and `LINES`
